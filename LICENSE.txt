@@ -1,0 +1,23 @@
+RetroShine Software License Agreement
+
+Copyright © 2025 Marius Wanko
+
+This software, RetroShine ("the Software"), is proprietary and protected by copyright law.
+
+Permission is hereby granted to install and use the Software free of charge for personal or non-commercial purposes.
+
+You are also permitted to redistribute the Software, unmodified, in its original binary form (e.g., as a Flatpak, AppImage, or installer), provided that:
+
+1. This license text is included without changes;
+2. No modifications are made to the Software;
+3. No fees are charged beyond reasonable distribution costs.
+
+The Software may not be modified, reverse engineered, disassembled, or used for commercial purposes without explicit written permission from the author.
+
+This license does not grant any rights to the Software’s source code.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
+Author: Marius Wanko  
+Website: https://retroshine.eu  
+License version: 1.0 (2025-07-07)
