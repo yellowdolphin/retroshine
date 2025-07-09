@@ -1,2 +1,2 @@
-# retroshine
-Public repository for RetroShine releases
+# RetroShine
+Public repository for [RetroShine](https://retroshine.eu) releases
