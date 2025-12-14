@@ -1,4 +1,4 @@
-<p align="center" style="background: linear-gradient(180deg, #555555 0%, #ffffff 70%); padding:12px; border-radius:6px;">
+<p align="center" style="background-color:#f5f5f5; padding:12px; border-radius:6px;">
   <a href="https://retroshine.eu" target="_blank" rel="noopener noreferrer">
     <img src="images/retroshine-logo-25A.webp" alt="RetroShine Logo" width="349"/>
   </a>
