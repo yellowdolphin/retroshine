@@ -1,6 +1,6 @@
-<p align="center" style="background-color:#f5f5f5; padding:12px; border-radius:6px;">
+<p align="center">
   <a href="https://retroshine.eu" target="_blank" rel="noopener noreferrer">
-    <img src="images/retroshine-logo-25A.webp" alt="RetroShine Logo" width="349"/>
+    <img src="images/retroshine-logo-github.svg" alt="RetroShine Logo" height="280"/>
   </a>
 </p>
 
