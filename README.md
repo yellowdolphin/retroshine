@@ -29,7 +29,7 @@ RetroShine intelligently restores color and contrast to digitized analog photos 
 - **🧠 Auto Correction** - Intelligent curve adjustment based on image content
 - **🛠️ Manual Control** - Advanced tools for perfect results
 - **⚡ Batch Processing** - Process entire folders at once
-- **🖼️ Full Quality** - Preserves original resolution, compression, and EXIF metadata
+- **🖼️ Full Quality** - Preserves original resolution, compression, metadata (EXIF, ICC, XMP, IPTC)
 - **🪄 Simple Interface** - No editing experience needed
 
 ## What RetroShine Fixes
@@ -94,4 +94,4 @@ No subscriptions. No ads. No data collection. Your privacy is guaranteed.
 
 ---
 
-© 2025 RetroShine team. All rights reserved.
+© 2026 RetroShine team. All rights reserved.
