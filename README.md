@@ -26,11 +26,12 @@ RetroShine intelligently restores color and contrast to digitized analog photos 
 
 ## Key Features
 
-- **🧠 Auto Correction** - Intelligent curve adjustment based on image content
-- **🛠️ Manual Control** - Advanced tools for perfect results
-- **⚡ Batch Processing** - Process entire folders at once
-- **🖼️ Full Quality** - Preserves original resolution, compression, metadata (EXIF, ICC, XMP, IPTC)
-- **🪄 Simple Interface** - No editing experience needed
+- **Auto Correction** - Intelligent curve adjustment based on image content
+- **Manual Control** - Advanced tools for perfect results
+- **Batch Processing** - Process entire folders at once
+- **Full Quality** - 16-bit support, preserves complete metadata (EXIF, ICC, XMP, IPTC)
+- **Color Management** - Source/Target/Display ICC profile, embedded/ICC/ICM/built-in color profiles
+- **Simple Interface** - No editing experience needed
 
 ## What RetroShine Fixes
 
@@ -60,7 +61,9 @@ All examples above were produced with the same settings, running Retroshine in f
 
 ## Pro Workflow
 
-For maximum quality, you can leverage RetroShine's full capacity by processing raw 16-bit scans (PNG or TIFF). You can load your scanner's ICC profile into RetroShine for best results. It will convert the images to sRGB after curve corrections to avoid any channel bleeding.
+For maximum quality, save your scans in a 16-bit format (PNG or TIFF). You can assign your scanner's ICC profile inside RetroShine for best results. It will convert the images to the desired target color space (sRGB by default) after processing all corrections.
+
+Using a WideGamut display? In RetroShine you can specify an ICC profile for your monitor to see colors correctly.
 
 While RetroShine aims at ease of use, its underlying AutoLevels engine is a command-line tool that seamlessly fits into professional automated archiving workflows. Perfect for museums, archives, and professional photographers.
 
